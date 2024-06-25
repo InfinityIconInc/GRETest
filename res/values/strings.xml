@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">English Language Aptitude Tests</string>
+    <string name="action_settings">Settings</string>
+    <string name="numberofquestions">Number of Questions</string>
+    <string name="numberofqpertest">Total Number of Questions Per Test</string>
+    <string name="strAppMotto">Analogies, Sentence Completion, Synonyms, Antonyms</string>
+    <string name="strBtnGoBackToTests">Go Back to Test List</string>
+
+</resources>
